@@ -1,7 +1,6 @@
 # what-i-am-learning
 
 ## Reading list:
----
 
 Internal Working of Redis - https://medium.com/better-programming/internals-workings-of-redis-718f5871be84
 
