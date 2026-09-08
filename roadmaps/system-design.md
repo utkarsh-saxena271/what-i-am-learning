@@ -1,14 +1,4 @@
-Bilkul bhai. Let's make this the **final System Design roadmap** — no random topic dumping, no "learn 50 design patterns", and no unnecessary Kubernetes-at-week-2 bullshit.
-
-The goal is:
-
-> **Strong LLD + strong HLD + enough distributed-systems depth to design and defend backend systems in interviews.**
-
-And this runs **alongside your projects**, not instead of them.
-
----
-
-# 🧠 SYSTEM DESIGN — FINAL ROADMAP
+# 🧠 SYSTEM DESIGN ROADMAP
 
 ```text
                          SYSTEM DESIGN
@@ -1301,10 +1291,3 @@ AI / Agentic AI ─────────→ Side Quest
                               ▼
                        AI Systems Engineer
 ```
-
-**This is the roadmap I'd stick with.** Don't keep changing the roadmap every few weeks. The next step should be turning **Phase 0 → Phase 1 into an actual study schedule**, with exactly what to study, what to build, and which LLD problems to solve in each week.
-
-Turn the roadmap into action
-
-* Make the 16-week study schedule
-* Start with Weeks 1–2
